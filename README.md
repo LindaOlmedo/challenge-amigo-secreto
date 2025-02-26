@@ -16,9 +16,16 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 - `Funcionalidad 3`: Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
 - `Funcionalidad 4`: Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+- 
 
+## :heavy_check_mark:Tecnologías utilizadas:
+- HTML 
 
+- CSS
 
+- JavaScript 
+
+  
 ## :black_nib:Autora
 
 | [<img src="(https://github.com/user-attachments/assets/23f9b74a-ce13-40b5-94fb-e2a3f8319b08)" 
