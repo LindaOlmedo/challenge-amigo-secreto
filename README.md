@@ -1,4 +1,5 @@
-![Juego Challenge Amigo Secreto](https://github.com/user-attachments/assets/0c6963c3-9938-4004-9314-a796c90136a3)
+![Juego Challenge Amigo Secreto]![Captura de pantalla 2025-03-16 170154](https://github.com/user-attachments/assets/88c69712-c79e-4024-9d1f-df9b5a812312)
+
 
 <h1 align="center"> Proyecto - Challenge Amigo Secreto </h1>
 
