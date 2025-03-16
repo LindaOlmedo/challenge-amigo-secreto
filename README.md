@@ -31,6 +31,3 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 | [<img src="(https://github.com/user-attachments/assets/23f9b74a-ce13-40b5-94fb-e2a3f8319b08)" 
      width=115><br><sub>Linda Olmedo</sub>](https://github.com/LindaOlmedo) |
 
-<h4 align="center">
-:construction: Proyecto en construcción :construction:
-</h4>
